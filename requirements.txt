@@ -1,0 +1,9 @@
+sentence-transformers
+uvicorn
+ipykernel
+python-box
+streamlit==1.10.0
+langchain==0.0.116
+CTransformers==0.1.2
+pydantic==1.8.2
+lmstudio
